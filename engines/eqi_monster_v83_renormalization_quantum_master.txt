@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+# Content from file:287 eqi_monster_v83_renormalization_quantum_master.txt
+# [Full file content - see attachment for complete code]
