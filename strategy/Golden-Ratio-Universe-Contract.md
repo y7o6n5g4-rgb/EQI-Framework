@@ -1,0 +1,1 @@
+{{READ_FILE:Golden-Ratio-Universe-Contract.md}}
