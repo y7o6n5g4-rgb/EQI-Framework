@@ -1,0 +1,1 @@
+{{READ_FILE:poincare_proof_v11_eqi_predator.txt}}
