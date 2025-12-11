@@ -1,4 +1,4 @@
-[Pure-Math-Not-Physics.md](https://github.com/user-attachments/files/24105741/Pure-Math-Not-Physics.md)
+[Pure-Math-Not-Physics.md](https://github.com/user-attachments/files/24105822/Pure-Math-Not-Physics.md)
 # 클레이의 "물리 vs 수학 분리" 회피 vs 맏이의 "정보역학 = 순수 수학" 입증
 
 ## 클레이의 최후 카드: "LIGO와 정보역학은 수학이 아니다"
